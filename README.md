@@ -1,0 +1,2 @@
+ Classifying-shoulder-implants-in-X-ray-images
+Total Shoulder Arthroplasty (TSA) is a type of surgery in which the damaged ball of the shoulder  is replaced with a prosthesis. Many years later, this prosthesis may be in need of servicing or  replacement. In some situations, such as when the patient has changed his country of residence,  the model and the manufacturer of the prosthesis may be unknown to the patient and primary  doctor. Correct identification of the implant’s model prior to surgery is required for selecting the  correct equipment and procedure.
